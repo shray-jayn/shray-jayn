@@ -12,9 +12,9 @@
 - 💻 I aspire to learn a lot from the open-source community and I love how collaboration and knowledge sharing happens through open-source.
 - 📫 How to reach me **shrayjayn08@gmail.com**
 
-<p align="center">
-<h3 align="left">Languages and Tools:</h3>
-</p>
+
+<h3 align="center">Languages and Tools:</h3>
+
 
 <br>
 
