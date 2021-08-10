@@ -7,8 +7,8 @@
 
 
 
-- 🔭 I’m currently working on **Data Structues and Algorithms**
-- 💻I'm a **Competitive Programmer*.
+
+- 💻I'm a **Competitive Programmer**.
 - 🔭 I’m currently working on **Data Structues and Algorithms** to be efficient at **Problem Solving**.
 - 🌱 I’m also working on **Frontend Devlopment**
 - 🛠 I'm also an **Open-source enthusiast and maintainer**.
