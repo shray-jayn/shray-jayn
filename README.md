@@ -1,6 +1,7 @@
-### Hi there 👋, Shray Jain
-#### Competitive Coding and Development
 ![Competitive Coding and Development](https://media-exp1.licdn.com/dms/image/C5616AQEjmey1_eTOgQ/profile-displaybackgroundimage-shrink_350_1400/0/1628605749256?e=1634169600&v=beta&t=pohpRldjFzWlRfDNsNLh8FOcbKMZfHS2YkU5xmPe0EA)
+
+### Hi there 👋, Shray Jain
+
 
 Hi, I'm Shray Jain, a passionate Competitive Programmer, and a self-taught full-stack web developer.
 
