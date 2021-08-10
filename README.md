@@ -8,8 +8,9 @@
 - 🔭 I’m currently working on **Data Structues and Algorithms**
 
 - 🌱 I’m also working on **Frontend Devlopment**
--  I am also an open-source enthusiast and maintainer.
-   I aspire to learn a lot from the open-source community and I love how collaboration and knowledge sharing happens through open-source.
+- 
+- 🛠 I'm also an **Open-source enthusiast and maintainer**.
+- 💻 I aspire to learn a lot from the open-source community and I love how collaboration and knowledge sharing happens through open-source.
 
 - 💬 Ask me about **HTML,CSS,JS.**
 
