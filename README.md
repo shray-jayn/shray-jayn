@@ -12,7 +12,9 @@
 - 💻 I aspire to learn a lot from the open-source community and I love how collaboration and knowledge sharing happens through open-source.
 - 📫 How to reach me **shrayjayn08@gmail.com**
 
+<p align="center">
 <h3 align="left">Languages and Tools:</h3>
+</p>
 
 <br>
 
@@ -43,16 +45,14 @@
    <img src="https://spotify-now-playing-sauravchamoli17.vercel.app/api/spotify-playing" alt="Shray Spotify Playing" width="350" />
   </a>
 </p>
-
-<h3 align="left">Github Stats </h3>
-
-
-
-
-<h3 align="left">Connect with me:</h3>
 <p align="center">
+<h3 align="left">Github Stats </h3>
+</p>
 
 
+
+<p align="center">
+<h3 align="left">Connect with me:</h3>
 </p>
 
 -----
