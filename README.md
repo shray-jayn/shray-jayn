@@ -1,6 +1,6 @@
 ![Competitive Coding and Development](https://media-exp1.licdn.com/dms/image/C5616AQEjmey1_eTOgQ/profile-displaybackgroundimage-shrink_350_1400/0/1628605749256?e=1634169600&v=beta&t=pohpRldjFzWlRfDNsNLh8FOcbKMZfHS2YkU5xmPe0EA)
 
-<h1 align="center">Hi,<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" /> I'm Shray</h1>
+<h1 align="center">Hi Amigos,<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" /> I'm Shray</h1>
 <h3 align="center">Competitive Coder and Web-Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=your-github-shray-jayn" alt="Shray" /> </p>
