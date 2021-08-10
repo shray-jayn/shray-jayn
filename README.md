@@ -45,9 +45,14 @@
    <img src="https://spotify-now-playing-sauravchamoli17.vercel.app/api/spotify-playing" alt="Shray Spotify Playing" width="350" />
   </a>
 </p>
+
+<h3 align="center">⚡Github Stats</h3>
+
+<h3 align="center">⚡Github Stats</h3>
 <p align="center">
-<h3 align="left">Github Stats </h3>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=shray-jayn&show_icons=true&hide=stars,issues&count_private=true&theme=radical" alt="shray-jayn" />
 </p>
+
 
 
 
