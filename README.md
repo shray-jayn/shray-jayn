@@ -1,5 +1,7 @@
-<h1 align="center">Hi,<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" /> I'm Saurav</h1>
-<h3 align="left">An aspiring fullstack developer from India.</h3>
+![Competitive Coding and Development](https://media-exp1.licdn.com/dms/image/C5616AQEjmey1_eTOgQ/profile-displaybackgroundimage-shrink_350_1400/0/1628605749256?e=1634169600&v=beta&t=pohpRldjFzWlRfDNsNLh8FOcbKMZfHS2YkU5xmPe0EA)
+
+<h1 align="center">Hi,<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" /> I'm Shray</h1>
+<h3 align="center">Competitive Coding and Development</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sauravchamoli17&label=Profile%20views&color=0e75b6&style=flat" alt="sauravchamoli17" /> </p>
 
