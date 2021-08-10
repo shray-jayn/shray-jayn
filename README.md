@@ -3,7 +3,7 @@
 <h1 align="center">Hi,<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" /> I'm Shray</h1>
 <h3 align="center">Competitive Coding and Development</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sauravchamoli17&label=Profile%20views&color=0e75b6&style=flat" alt="sauravchamoli17" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sauravchamoli17&label=Profile%20views&color=0e75b6&style=flat" alt="Shray" /> </p>
 
 - 🔭 I’m currently working on **MERN STACK**
 
