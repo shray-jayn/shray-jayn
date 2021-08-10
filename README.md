@@ -5,8 +5,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=your-github-shray-jayn" alt="Shray" /> </p>
 
-- 🔭 I’m currently working on **Data Structues and Algorithms**
 
+
+- 🔭 I’m currently working on **Data Structues and Algorithms**
+- 💻I'm a **Competitive Programmer*.
+- 🔭 I’m currently working on **Data Structues and Algorithms** to be efficient at **Problem Solving**.
 - 🌱 I’m also working on **Frontend Devlopment**
 - 🛠 I'm also an **Open-source enthusiast and maintainer**.
 - 💻 I aspire to learn a lot from the open-source community and I love how collaboration and knowledge sharing happens through open-source.
