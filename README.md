@@ -58,6 +58,22 @@
 </p>
 
 
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Devv14&show_icons=true&hide=stars,issues&count_private=true&theme=radical" alt="Devv14" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devv14&layout=compact&langs_count=10&count_private=true&theme=radical" alt="Devv14" />
+</p>
+
+<p align="center">
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=Devv14&theme=radical" />
+</p>
+<p align="center">
+  <img src ="https://komarev.com/ghpvc/?username=Devv14&style=plastic&color=f72585"/>
+</p>
+
+
 
 
 
