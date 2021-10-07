@@ -22,10 +22,14 @@
 <br>
 
 <div align="center">  
-  <a  style="margin: 10px" href="https://www.freeiconspng.com/img/28389" title="Image from freeiconspng.com"><img src="https://www.freeiconspng.com/uploads/c--logo-icon-0.png" height="25"  alt="c++ logo image" /></a>
+  
 <!--   <img style="margin: 10px" src="https://www.freeiconspng.com/img/28389" alt="C++" height="25" />   -->
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="25" />  
+<img style="margin: 10px" src="https://www.freeiconspng.com/uploads/c--logo-icon-0.png" alt="C++" height="25" /> 
+
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="25" />  
+<img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/768px-Sass_Logo_Color.svg.png" alt="SCSS" height="25" />  
+<img style="margin: 10px" src="https://automationpanda.files.wordpress.com/2017/09/django-logo-negative.png" alt="Django" height="25" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="25" />  
 
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="25" />  
@@ -40,6 +44,8 @@
 
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobe_illustrator-icon.svg" alt="Illustrator" height="25" />  
 </div>  
+
+<br>
 
 
 
@@ -57,20 +63,19 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=shray-jayn&show_icons=true&hide=stars,issues&count_private=true&theme=radical" alt="shray-jayn" />
 </p>
 
+<br>
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Devv14&show_icons=true&hide=stars,issues&count_private=true&theme=radical" alt="Devv14" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shray-jayn&layout=compact&langs_count=10&count_private=true&theme=radical" alt="Devv14" />
 </p>
+<br>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devv14&layout=compact&langs_count=10&count_private=true&theme=radical" alt="Devv14" />
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=shray-jayn&theme=radical" />
 </p>
-
+<br>
 <p align="center">
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=Devv14&theme=radical" />
-</p>
-<p align="center">
-  <img src ="https://komarev.com/ghpvc/?username=Devv14&style=plastic&color=f72585"/>
+  <img src ="https://komarev.com/ghpvc/?username=shray-jayn&style=plastic&color=f72585"/>
 </p>
 
 
