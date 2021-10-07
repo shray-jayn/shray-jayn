@@ -74,9 +74,7 @@
   <img src="http://github-readme-streak-stats.herokuapp.com?user=shray-jayn&theme=radical" />
 </p>
 <br>
-<p align="center">
-  <img src ="https://komarev.com/ghpvc/?username=shray-jayn&style=plastic&color=f72585"/>
-</p>
+
 
 
 
