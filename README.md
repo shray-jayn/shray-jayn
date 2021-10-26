@@ -1,4 +1,4 @@
-https://media-exp1.licdn.com/dms/image/C5616AQEjmey1_eTOgQ/profile-displaybackgroundimage-shrink_350_1400/0/1628605749256?e=1640822400&v=beta&t=00-ADW62ns-PM1R4mzL9b_Bv7xdtLbXpFZ4kuLDZMMY
+<img src = "https://media-exp1.licdn.com/dms/image/C5616AQEjmey1_eTOgQ/profile-displaybackgroundimage-shrink_350_1400/0/1628605749256?e=1640822400&v=beta&t=00-ADW62ns-PM1R4mzL9b_Bv7xdtLbXpFZ4kuLDZMMY"/>
 
 ![Competitive Coding and Development](https://media-exp1.licdn.com/dms/image/C5616AQEjmey1_eTOgQ/profile-displaybackgroundimage-shrink_350_1400/0/1628605749256?e=1634169600&v=beta&t=pohpRldjFzWlRfDNsNLh8FOcbKMZfHS2YkU5xmPe0EA)
 
