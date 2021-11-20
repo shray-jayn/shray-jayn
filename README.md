@@ -1,6 +1,3 @@
-<img src = "https://media-exp1.licdn.com/dms/image/C5616AQEjmey1_eTOgQ/profile-displaybackgroundimage-shrink_350_1400/0/1628605749256?e=1640822400&v=beta&t=00-ADW62ns-PM1R4mzL9b_Bv7xdtLbXpFZ4kuLDZMMY"/>
-
-
 <h1 align="center">Hi Amigos,<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" /> I'm Shray</h1>
 <h3 align="center">Competitive Coder and Web-Developer</h3>
 
