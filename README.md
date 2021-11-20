@@ -48,12 +48,6 @@
 
 
 
-<h3 align="center" id="spotify-playing-">Spotify Playing 🎧</h3>
-<p align="center">
-  <a href="https://open.spotify.com/user/wcw78odmotfxhv9g0mivw2q2b">
-   <img src="https://spotify-now-playing-sauravchamoli17.vercel.app/api/spotify-playing" alt="Shray Spotify Playing" width="350" />
-  </a>
-</p>
 
 
 <h3 align="center">Github Stats</h3>
