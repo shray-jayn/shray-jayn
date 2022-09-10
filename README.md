@@ -50,25 +50,6 @@
 
 
 
-<h3 align="center">Github Stats</h3>
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=shray-jayn&show_icons=true&hide=stars,issues&count_private=true&theme=radical" alt="shray-jayn" />
-</p>
-
-<br>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shray-jayn&layout=compact&langs_count=10&count_private=true&theme=radical" alt="Devv14" />
-</p>
-<br>
-
-<p align="center">
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=shray-jayn&theme=radical" />
-</p>
-<br>
-
-
-
 
 
 
